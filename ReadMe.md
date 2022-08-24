@@ -19,4 +19,4 @@ This project developed from scratch with pure HTML and CSS mainly focused on pos
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://product-home-page-headphone.netlify.app/)
+[Live Link !](https://github.com/anitha-nagadasarink/07-Product-Home-Page)
