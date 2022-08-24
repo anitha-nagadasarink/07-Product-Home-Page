@@ -15,7 +15,7 @@ This project developed from scratch with pure HTML and CSS mainly focused on pos
 
 ### Demo :
 
-![Web Site Image](./images/screencapture-product-home-page-headphone-netlify-app-2022-07-31-19_44_46.png)
+![Web Site Image](https://github.com/anitha-nagadasarink/07-Product-Home-Page/blob/HTML-CSS-Projects/images/demo.png)
 
 ### You can Check it Live on Below Link :
 
